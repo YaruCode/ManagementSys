@@ -1,5 +1,5 @@
 ﻿StudentInfoSys
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 E:\dotnet\StudentInfoSys\StudentInfoSys\App.xaml
 1-1966455164
 
-6583397911
+4-995004475
 2081515159160
 Views\LogInWindow.xaml;
 
-True
+False
 
